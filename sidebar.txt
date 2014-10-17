@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tjs:home|Door43 (tjs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tjs|d43-tjs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tjs/archive/master.zip|d43-tjs.zip]]
+
+**Recent Changes**
+{{changes>ns = tjs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tjs|Ethnologue data]]
+
